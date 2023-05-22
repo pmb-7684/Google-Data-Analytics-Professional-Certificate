@@ -1,20 +1,18 @@
-# Google-Data-Analytics-Professional-Certificate
-Learning material and assignments for professional certification.  Also, helpful resources. Completed October 2022
-
-Google
+# Google Data Analytics Professional Certificate
 - ADD actual logo as image
+- Learning material and assignments for professional certification.  Also, helpful resources. Completed October 2022
 
-## About this Professional Certification  
+### About this Professional Certification  
 - ADD
 
 
 
-## Applied Learning Project
+### Applied Learning Project
 - ADD
+- 
 #### Projects:
-#### Tools: 
-#### Libraries:
-#### Course Link:   [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+#### Tools: `R programming`, `Tableau`, `Spreadsheets`, `SQL`
+[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 
 ## Certification Overview
