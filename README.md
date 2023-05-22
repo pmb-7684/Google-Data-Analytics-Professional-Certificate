@@ -14,7 +14,7 @@ Google
 #### Projects:
 #### Tools: 
 #### Libraries:
-#### Course Link:
+#### Course Link:   [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 
 ## Certification Overview
